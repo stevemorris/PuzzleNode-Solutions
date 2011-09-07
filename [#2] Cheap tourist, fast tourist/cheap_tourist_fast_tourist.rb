@@ -8,7 +8,7 @@
 # Testing: rspec cheap_tourist_fast_tourist.rb
 #
 # Solution notes: The key to this solution is the find_best_trip method, which
-#   is based on the find shortest path algorithim from graph theory. For this
+#   is based on the find shortest path algorithm from graph theory. For this
 #   to work, import each test case into a graph data structure: a hash with
 #   the departure city as the key and an array of flights from that city as
 #   the value. The find_best_trip method also needs a comparison method to
