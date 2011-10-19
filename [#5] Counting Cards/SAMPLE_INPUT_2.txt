@@ -1,0 +1,12 @@
+Lil +5C +2H +8H +6D
+Shady +QH +AC +7C +2D +8C +3S -??:Lil
+Rocky +KS
+Danny +4H
+discard +4D +7D +JS +6S +6H +2C +5D +3C
+Lil +??:Shady -6D:discard -??:Danny +?? +??
+* +8H:Shady -2H:Danny +JD +2D
+* +8C:Shady -8C:Danny +JD +4S
+* +QH:Shady -2H:Danny +7D +AS
+* +AC:Shady -8H:Rocky +AS +8D
+* +8C:Shady -2H:Danny +10H +9H +4C
+* -8H:Danny +8C:Shady +4S +AS

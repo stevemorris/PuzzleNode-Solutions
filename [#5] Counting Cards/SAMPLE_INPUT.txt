@@ -1,0 +1,29 @@
+Shady +?? +?? +?? +??
+Rocky +QH +KD +8S +9C
+Danny +?? +?? +?? +??
+Lil +8H +9H +JS +6H
+Shady -QD:discard -2S:discard
+Rocky -KD:Shady +7H
+Danny -QC:Rocky +?? +??
+Lil -6H:Rocky -??:Shady -8H:discard +?? -10S:discard +??
+* -JS:Shady +10S +QS
+Shady +KD:Rocky +??:Lil -KD:discard -??:Lil
+Rocky +QC:Danny +6H:Lil -9C:Danny -6H:discard -7H:discard +3D +3H
+Danny +9C:Rocky -AD:discard +??
+Lil +??:Shady +?? -??:Danny -??:Shady +??
+* +AH:Shady +8D -8D:Danny -QS:Shady +8C
+Shady +??:Lil -7S:discard +?? -10H:discard
+Rocky -QH:Lil +5D -8S:Shady -3H:discard -QC:discard
+Danny +??:Lil +?? +?? -??:Lil -3S:Rocky -??:Shady
+Lil +QH:Rocky +??:Danny -AH:Rocky -QH:discard
+* +4D:Danny
+Shady +8S:Rocky +??:Danny -JS:discard +?? +?? +?? +??
+Rocky +3S:Danny +AH:Lil +AS +4H
+Danny -10D:discard +?? -6S:discard -JC:discard -8D:discard
+Lil -8C:discard -??:Shady +?? -??:Danny
+* -4D:Shady +KH -KH:Danny
+Shady +??:Lil -??:Danny +?? -2H:discard
+Rocky +5C -5D:discard +3C -3D:discard -5C:discard +KS
+Danny +??:Lil +??:Shady -??:Lil -6D:discard +??
+Lil +??:Danny -??:Shady -??:Danny
+* +KH:Danny -9H:Shady -KH:Danny

@@ -1,11 +1,22 @@
 # PuzzleNode Solutions
 
-This is where I'll be posting my solutions in Ruby to all 12 of the excellent [PuzzleNode programming challenges](http://puzzlenode.com/). I'm currently on the [leaderboard](http://puzzlenode.com/leaderboard) (look for Steve Morris).
+My solutions in Ruby to all 12 of the excellent [PuzzleNode programming challenges](http://puzzlenode.com/). I'm currently on the [leaderboard](http://puzzlenode.com/leaderboard) (look for Steve Morris).
 
-Each challenge solution is in its own folder. I've included usage and implementation notes at the top of each solution's .rb file.
+## Disclaimer
+
+Since developing these solutions, I've participated in and graduated from [Ruby Mendicant University](http://http://university.rubymendicant.com/alumni/recent.html). My current Ruby skills are far more advanced than what's shown here.
+
+These current solutions are more like scripts, and they don't follow many Ruby best practices I've applied in later projects. Some day I may rewrite these solutions.
+
+## Hints
+
+To efficiently solve many of these challenges, you'll need to be comfortable with both recursion and graph theory. I found [this article](http://www.python.org/doc/essays/graphs) extremely helpful for implementing graphs (translating the Python code to Ruby was straightforward).
 
 ## Requirements
 
-You need Ruby 1.9.2 installed to run these solutions. To test against the sample data set provided with each challenge, you'll need the RSpec gem installed (`gem install rspec`).
+Ruby 1.9.2 or higher
 
-A few of the solutions require additional gems. These are listed in each solution's .rb file.
+Gems required by one or more solutions:
+
+* RSpec (`gem install rspec`)
+* Nokogiri (`gem install nokogiri`)
