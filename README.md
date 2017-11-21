@@ -1,12 +1,6 @@
 # PuzzleNode Solutions
 
-My solutions in Ruby to all 12 of the excellent [PuzzleNode programming challenges](http://puzzlenode.com/). I'm currently on the [leaderboard](http://puzzlenode.com/leaderboard) (look for Steve Morris).
-
-## Disclaimer
-
-Since developing these solutions, I've participated in and graduated from [Ruby Mendicant University](http://http://university.rubymendicant.com/alumni/recent.html). My current Ruby skills are far more advanced than what's shown here.
-
-These current solutions are more like scripts, and they don't follow many Ruby best practices I've applied in later projects. Some day I may rewrite these solutions.
+My solutions in Ruby to the first 12 [PuzzleNode programming challenges](http://www.puzzlenode.com/). I'm currently on the [leaderboard](http://www.puzzlenode.com/leaderboard) (look for Steve Morris).
 
 ## Hints
 
@@ -14,7 +8,7 @@ To efficiently solve many of these challenges, you'll need to be comfortable wit
 
 ## Requirements
 
-Ruby 1.9.2 or higher
+Ruby 1.9.2
 
 Gems required by one or more solutions:
 
